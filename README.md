@@ -6,5 +6,5 @@
 
 ### I really like [_SpaceX_](https://www.spacex.com) and [_Python_](https://www.python.org).
 
-### My Contributions: [Click Here](https://skyline.github.com/somepythonprogrammer/2020)
+### [Click Here to see something cool](https://skyline.github.com/somepythonprogrammer/2020)
 ### Me on Stack Overflow: [Click Here](https://stackoverflow.com/users/15922830/somepythonprogrammer?tab=profile)
