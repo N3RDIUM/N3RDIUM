@@ -4,8 +4,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=somepythonprogrammer&show_icons=true&theme=dark)
 
-### Hey, I am another one of those python programmers 👋
-
 ### My top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=somepythonprogrammer&repo=WebCraft)](https://github.com/somePythonProgrammer/WebCraft)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=somepythonprogrammer&repo=PyTaskbar)](https://github.com/somePythonProgrammer/PyTaskbar)
