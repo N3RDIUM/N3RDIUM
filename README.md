@@ -5,7 +5,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=somepythonprogrammer&show_icons=true&theme=dark)
 
 ### My top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=somepythonprogrammer&repo=WebCraft)](https://github.com/somePythonProgrammer/WebCraft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=somepythonprogrammer&repo=WebCraft)](https://github.com/WebCraft-Community/WebCraft)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=somepythonprogrammer&repo=PyTaskbar)](https://github.com/somePythonProgrammer/PyTaskbar)
 
 ### I really like [_SpaceX_](https://www.spacex.com) and [_Python_](https://www.python.org).
