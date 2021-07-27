@@ -1,12 +1,7 @@
 
 ![Picture5](https://user-images.githubusercontent.com/74598401/124297572-d4579480-db78-11eb-8087-c2057137a4fc.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somepythonprogrammer&theme=dark)]()
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=somepythonprogrammer&show_icons=true&theme=dark)
-
-### My top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebCraft-Community&repo=WebCraft)](https://github.com/WebCraft-Community/WebCraft)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=somepythonprogrammer&repo=PyTaskbar)](https://github.com/somePythonProgrammer/PyTaskbar)
 
 ### I really like [_SpaceX_](https://www.spacex.com) and [_Python_](https://www.python.org).
 
