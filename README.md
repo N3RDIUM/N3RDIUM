@@ -3,6 +3,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=somepythonprogrammer&show_icons=true&theme=dark)
 
+### I'm also a WhiteHat coder.
+
 ### I really like [_SpaceX_](https://www.spacex.com) and [_Python_](https://www.python.org).
 
 ### [Click Here to see something cool](https://skyline.github.com/somepythonprogrammer/2020)
