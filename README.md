@@ -3,6 +3,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=somepythonprogrammer&show_icons=true&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=somePythonProgrammer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### I'm also a WhiteHat coder.
 
 ### I really like [_SpaceX_](https://www.spacex.com) and [_Python_](https://www.python.org).
