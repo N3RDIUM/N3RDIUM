@@ -5,9 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=somePythonProgrammer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### I'm also a WhiteHat coder.
-
 ### I really like [_SpaceX_](https://www.spacex.com) and [_Python_](https://www.python.org).
+
+### I'm also a WhiteHat coder.
 
 ### [Click Here to see something cool](https://skyline.github.com/somepythonprogrammer/2020)
 ### Me on Stack Overflow: [Click Here](https://stackoverflow.com/users/15922830/somepythonprogrammer)
