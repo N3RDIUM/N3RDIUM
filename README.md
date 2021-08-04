@@ -12,4 +12,6 @@
 ### [Click Here to see something cool](https://skyline.github.com/somepythonprogrammer/2020)
 ### Me on Stack Overflow: [Click Here](https://stackoverflow.com/users/15922830/somepythonprogrammer)
 
-### Number of visits: ![Visitor Count](https://profile-counter.glitch.me/{somePythonProgrammer}/count.svg)
+### Number of visits: 
+
+![Visitor Count](https://profile-counter.glitch.me/{somePythonProgrammer}/count.svg)
