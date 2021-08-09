@@ -3,7 +3,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=somepythonprogrammer&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya02850&" alt="ananya02850" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somePythonProgrammer&" alt="somePythonProgrammer" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=somePythonProgrammer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
