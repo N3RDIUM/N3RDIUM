@@ -3,6 +3,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=somepythonprogrammer&show_icons=true&theme=dark)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya02850&" alt="ananya02850" /></p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=somePythonProgrammer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### I really like [_SpaceX_](https://www.spacex.com) and [_Python_](https://www.python.org).
