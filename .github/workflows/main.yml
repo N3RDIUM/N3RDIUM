@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # My GitHub token
           token: ${{ secrets.KEY }}
 
           # Options
