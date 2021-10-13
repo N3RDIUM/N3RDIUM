@@ -3446,7 +3446,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.12060301507537 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.89949748743719 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -3467,7 +3467,7 @@
                   
                   
                 </div>
-                                <div class="text">Participated in discussions 109 times</div>
+                                <div class="text">Participated in discussions 110 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3928,7 +3928,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13/10/2021, 12:53 (timezone Asia/Calcutta) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 13/10/2021, 12:58 (timezone Asia/Calcutta) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
