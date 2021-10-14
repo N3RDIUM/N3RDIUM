@@ -49,7 +49,6 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_projects: yes
           plugin_projects_limit: 4
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
