@@ -42,7 +42,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
-          plugin_pagespeed_url: thewebcrafters.github.io/WebCraft
+          plugin_pagespeed_url: thewebcrafters.github.io/PyCraft
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
