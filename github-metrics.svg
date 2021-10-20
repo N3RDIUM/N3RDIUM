@@ -1786,18 +1786,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 49.83316309159005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">62%</span>
+                            <div class="bar" style="width: 60.35912214586566%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">75%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 22.267620020429007%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">28%</span>
+                            <div class="bar" style="width: 14.497894036798936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">18%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 7.899216887980933%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">10%</span>
+                            <div class="bar" style="width: 5.142983817335402%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">6%</span>
                         </div>
                     </div>
                 </section>
@@ -3503,7 +3503,7 @@ Please report this to https://github.com/markedjs/marked.
                   <span class="prefix">Master</span> developer
                   
                     <span class="gh">
-                      ranked 99.5k out of 78m users
+                      ranked 99.5k out of 79m users
                     </span>
                   
                   
@@ -3691,7 +3691,7 @@ Please report this to https://github.com/markedjs/marked.
                   <span class="prefix">Great</span> influencer
                   
                     <span class="gh">
-                      ranked 16.5k out of 78m users
+                      ranked 16.5k out of 79m users
                     </span>
                   
                   
@@ -4186,7 +4186,7 @@ Please report this to https://github.com/markedjs/marked.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/10/2021, 11:38 (timezone Asia/Calcutta) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 20/10/2021, 12:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
