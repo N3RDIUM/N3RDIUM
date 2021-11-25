@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=somepythonprogrammer&label=Profile%20views&color=00e8c1&style=flat" alt="somepythonprogrammer" /> </p>
 
-- 🔭 I’m currently working on **PyCraft** and **WebCraft**.
+- 🔭 I’m currently working on **PyCraft** and **AstroHub**.
 
 <h3 align="left">Connect with me:</h3>
 
