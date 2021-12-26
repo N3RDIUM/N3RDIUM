@@ -1847,37 +1847,37 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C++</span>
-                            <div class="bar" style="width: 49.41273321404871%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 49.41148799623675%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">62%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 15.714657728719875%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 15.716277741377283%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">20%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 10.636828708953907%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 10.636560657224939%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">13%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 1.9683643725376545%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.9683147690808593%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 1.4650168426534949%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.4649799237269625%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">GLSL</span>
-                            <div class="bar" style="width: 0.5860067370613979%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.5859919694907851%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.2163923960249658%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.21638694286242294%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -4317,7 +4317,7 @@ Thanks!
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2021, 18:45:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 26 Dec 2021, 19:36:47 (timezone Asia/Calcutta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
