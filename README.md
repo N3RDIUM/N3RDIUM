@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [PyCraft](github.com/1upCommunirt/PyCraft)
 
-- 💬 Ask me about **python, javascript, css, html**
+- 💬 Ask me about **python, javascript, css, html, OpenGL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
