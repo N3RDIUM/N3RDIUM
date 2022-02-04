@@ -498,22 +498,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 48.39212773858151%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">60%</span>
+                            <div class="bar" style="width: 49.72330023688322%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">62%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 31.230173465598643%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">39%</span>
+                            <div class="bar" style="width: 29.917846882717605%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">37%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.19097130125722772%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.1814424676175596%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.18672749456262266%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.17741041278161382%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3005,7 +3005,7 @@ Android 11.0
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2022, 13:37:23 (timezone Asia/Calcutta) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 4 Feb 2022, 14:36:32 (timezone Asia/Calcutta) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
