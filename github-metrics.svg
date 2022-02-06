@@ -498,22 +498,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 56.603275805210515%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 56.54422665129303%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">71%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 23.005386391117952%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 23.064843792895186%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">29%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.1978674288226888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.19766101136550818%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.19347037484885127%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.19326854444627464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3013,7 +3013,7 @@ window.py: The custom window class
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2022, 08:37:12 (timezone Asia/Calcutta) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 6 Feb 2022, 09:38:55 (timezone Asia/Calcutta) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
