@@ -497,24 +497,24 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">C</span>
-                            <div class="bar" style="width: 63.612350633404205%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">80%</span>
+                            <span class="name">Python</span>
+                            <div class="bar" style="width: 67.31437086582376%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">84%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Python</span>
-                            <div class="bar" style="width: 13.203557844928273%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">17%</span>
+                            <span class="name">C</span>
+                            <div class="bar" style="width: 12.080923211675511%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">GLSL</span>
-                            <div class="bar" style="width: 2.0891857087239076%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <div class="bar" style="width: 0.3967671666069469%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Cython</span>
-                            <div class="bar" style="width: 1.0949058129436076%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
+                            <div class="bar" style="width: 0.20793875589377836%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
                         </div>
                     </div>
                 </section>
@@ -3038,7 +3038,7 @@ from pyglet.gl import *
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2022, 18:43:50 (timezone Asia/Calcutta) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 22 Feb 2022, 19:37:39 (timezone Asia/Calcutta) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
