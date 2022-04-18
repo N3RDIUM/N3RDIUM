@@ -2612,7 +2612,7 @@ import glfw, numpy
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 14.7k out of 89m users</span>
+                                    <span class="gh">ranked 14.8k out of 89m users</span>
                                 </div>
                                 <div class="text">Followed by 340 users</div>
                             </div>
@@ -3153,7 +3153,7 @@ import glfw, numpy
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2022, 06:13:05 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 08:19:44 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
