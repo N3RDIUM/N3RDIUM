@@ -2871,7 +2871,7 @@ import glfw, numpy
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.10m out of 302m repositories</span>
+                                    <span class="gh">ranked 2.10m out of 303m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2945,7 +2945,7 @@ import glfw, numpy
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.24m out of 302m repositories</span>
+                                    <span class="gh">ranked 1.24m out of 303m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 12 stars</div>
                             </div>
@@ -3160,7 +3160,7 @@ import glfw, numpy
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2022, 11:43:56 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 12:37:29 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
