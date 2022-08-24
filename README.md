@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somepythonprogrammer" alt="somepythonprogrammer" /></a> </p>
 
-- 🔭 I’m currently working on [Py3D](github.com/1upCommunity/Py3D)
+- 🔭 I’m currently working on [PyCraft](github.com/1upCommunity/PyCraft)
 
-- 🤝 I’m looking for help with [Py3D](github.com/1upCommunity/Py3D)
+- 🤝 I’m looking for help with [PyCraft](github.com/1upCommunity/PyCraft)
 
 - 💬 Ask me about **Python, JavaScript, CSS, HTML, OpenGL, NodeJS**
 
