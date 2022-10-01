@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm somePythonProgrammer</h1>
+<h1 align="center">Hi 👋, I'm SubNerd</h1>
 <h3 align="center">A passionate student and developer.</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
