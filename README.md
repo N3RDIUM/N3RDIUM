@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somepythonprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="somepythonprogrammer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somepythonprogrammer" alt="somepythonprogrammer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subnerd" alt="somepythonprogrammer" /></a> </p>
 
 - 🔭 I’m currently working on [PyCraft](github.com/1upCommunity/PyCraft)
 
