@@ -2642,7 +2642,7 @@ from pyglet.gl import *
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 17.5k out of 99m users</span>
+                                    <span class="gh">ranked 17.4k out of 99m users</span>
                                 </div>
                                 <div class="text">Followed by 332 users</div>
                             </div>
@@ -3183,7 +3183,7 @@ from pyglet.gl import *
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2022, 23:02:12 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 3 Oct 2022, 23:49:09 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
