@@ -2540,7 +2540,7 @@ from pyglet.gl import *
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 101k out of 102m users</span>
+                                    <span class="gh">ranked 101k out of 103m users</span>
                                 </div>
                                 <div class="text">Published 121 public repositories</div>
                             </div>
@@ -2692,7 +2692,7 @@ from pyglet.gl import *
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 18.6k out of 102m users</span>
+                                    <span class="gh">ranked 18.6k out of 103m users</span>
                                 </div>
                                 <div class="text">Followed by 325 users</div>
                             </div>
@@ -2945,7 +2945,7 @@ from pyglet.gl import *
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.23m out of 358m repositories</span>
+                                    <span class="gh">ranked 2.23m out of 359m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2983,7 +2983,7 @@ from pyglet.gl import *
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.07m out of 358m repositories</span>
+                                    <span class="gh">ranked 1.07m out of 359m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -3157,7 +3157,7 @@ from pyglet.gl import *
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2022, 11:41:27 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 24 Nov 2022, 12:38:55 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
