@@ -31,7 +31,7 @@ jobs:
           user: SubNerd
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
           config_octicon: yes
           config_timezone: Asia/Kolkata
           config_twemoji: yes
@@ -87,8 +87,13 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_url: subnerd.github.io
           plugin_people: yes
           plugin_people_limit: 24
+          plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_projects: yes
@@ -105,6 +110,11 @@ jobs:
           plugin_repositories_pinned: 2
           plugin_repositories_random: 1
           plugin_repositories_starred: 2
+          plugin_screenshot: yes
+          plugin_screenshot_background: yes
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: My portfolio website!
+          plugin_screenshot_url: https://subnerd.github.io
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
@@ -114,6 +124,11 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_support: yes
