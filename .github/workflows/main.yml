@@ -123,7 +123,9 @@ jobs:
           plugin_stackoverflow_user: 15922830
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
+          plugin_stargazers_charts_type: chartist
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_sample: 16
           plugin_starlists: yes
           plugin_starlists_limit: 2
           plugin_starlists_limit_languages: 8
