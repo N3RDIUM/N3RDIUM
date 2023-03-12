@@ -31,9 +31,9 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    7.59m added, 413k removed
+                                    7.61m added, 412k removed
                                 </div>
                             </section>
                             <section>
@@ -571,7 +571,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.36
+                            Average per day at ~2.35
                         </div>
                     </section>
                 </div>
@@ -2546,6 +2546,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2653,6 +2658,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2707,27 +2713,27 @@
                                     <text x="30" y="21" class="ct-post">81</text><text x="75.75" y="21" class="ct-post">81</text><text x="121.5" y="21" class="ct-post">81</text><text x="167.25" y="21" class="ct-post">81</text><text x="213" y="21" class="ct-post">81</text><text x="258.75" y="21" class="ct-post">81</text><text x="304.5" y="21" class="ct-post">81</text><text x="350.25" y="21" class="ct-post">81</text><text x="396" y="21" class="ct-post">81</text><text x="441.75" y="21" class="ct-post">81</text><text x="487.5" y="21" class="ct-post">81</text><text x="533.25" y="21" class="ct-post">81</text><text x="579" y="21" class="ct-post">81</text><text x="624.75" y="21" class="ct-post">81</text><text x="670.5" y="21" class="ct-post">81</text><text x="716.25" y="21" class="ct-post">81</text><text x="762" y="21" class="ct-post">81</text><text x="807.75" y="21" class="ct-post">81</text><text x="853.5" y="21" class="ct-post">81</text><text x="899.25" y="21" class="ct-post">81</text><text x="945" y="21" class="ct-post">81</text></g>
                                 </g>
                                 <g class="ct-labels">
-                                    <text x="30" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">19 Feb.</text>
-                                    <text x="75.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">20</text>
-                                    <text x="121.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">21</text>
-                                    <text x="167.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">22</text>
-                                    <text x="213" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">23</text>
-                                    <text x="258.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">24</text>
-                                    <text x="304.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">25</text>
-                                    <text x="350.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">26</text>
-                                    <text x="396" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">27</text>
-                                    <text x="441.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">28</text>
-                                    <text x="487.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">01 Mar.</text>
-                                    <text x="533.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">02</text>
-                                    <text x="579" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">03</text>
-                                    <text x="624.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">04</text>
-                                    <text x="670.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">05</text>
-                                    <text x="716.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">06</text>
-                                    <text x="762" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">07</text>
-                                    <text x="807.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">08</text>
-                                    <text x="853.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">09</text>
-                                    <text x="899.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">10</text>
-                                    <text x="945" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">11</text>
+                                    <text x="30" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">20 Feb.</text>
+                                    <text x="75.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="121.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">22</text>
+                                    <text x="167.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">23</text>
+                                    <text x="213" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">24</text>
+                                    <text x="258.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">25</text>
+                                    <text x="304.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">26</text>
+                                    <text x="350.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">27</text>
+                                    <text x="396" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">28</text>
+                                    <text x="441.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">01 Mar.</text>
+                                    <text x="487.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">02</text>
+                                    <text x="533.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">03</text>
+                                    <text x="579" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">04</text>
+                                    <text x="624.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">05</text>
+                                    <text x="670.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">06</text>
+                                    <text x="716.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">07</text>
+                                    <text x="762" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">08</text>
+                                    <text x="807.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">09</text>
+                                    <text x="853.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">10</text>
+                                    <text x="899.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">11</text>
+                                    <text x="945" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">12</text>
                                 </g>
                             </svg>
                             <div class="ct-legend">
@@ -2748,9 +2754,9 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,15C45.25,51.667,60.5,125,75.75,125C91,125,106.25,125,121.5,125C136.75,125,152,125,167.25,125C182.5,125,197.75,125,213,125C228.25,125,243.5,125,258.75,125C274,125,289.25,125,304.5,125C319.75,125,335,125,350.25,125C365.5,125,380.75,125,396,125C411.25,125,426.5,125,441.75,125C457,125,472.25,125,487.5,125C502.75,125,518,125,533.25,125C548.5,125,563.75,125,579,125C594.25,125,609.5,125,624.75,125C640,125,655.25,125,670.5,125C685.75,125,701,125,716.25,125C731.5,125,746.75,125,762,125C777.25,125,792.5,125,807.75,125C823,125,838.25,125,853.5,125C868.75,125,884,125,899.25,125C914.5,125,929.75,125,945,125L945,125Z" class="ct-area"/>
-                                        <path d="M30,15C45.25,51.667,60.5,125,75.75,125C91,125,106.25,125,121.5,125C136.75,125,152,125,167.25,125C182.5,125,197.75,125,213,125C228.25,125,243.5,125,258.75,125C274,125,289.25,125,304.5,125C319.75,125,335,125,350.25,125C365.5,125,380.75,125,396,125C411.25,125,426.5,125,441.75,125C457,125,472.25,125,487.5,125C502.75,125,518,125,533.25,125C548.5,125,563.75,125,579,125C594.25,125,609.5,125,624.75,125C640,125,655.25,125,670.5,125C685.75,125,701,125,716.25,125C731.5,125,746.75,125,762,125C777.25,125,792.5,125,807.75,125C823,125,838.25,125,853.5,125C868.75,125,884,125,899.25,125C914.5,125,929.75,125,945,125" class="ct-line"/>
-                                        <line x1="30" y1="15" x2="30.01" y2="15" class="ct-point" ct:value="1"/>
+                                        <path d="M30,125L30,125C45.25,125,60.5,125,75.75,125C91,125,106.25,125,121.5,125C136.75,125,152,125,167.25,125C182.5,125,197.75,125,213,125C228.25,125,243.5,125,258.75,125C274,125,289.25,125,304.5,125C319.75,125,335,125,350.25,125C365.5,125,380.75,125,396,125C411.25,125,426.5,125,441.75,125C457,125,472.25,125,487.5,125C502.75,125,518,125,533.25,125C548.5,125,563.75,125,579,125C594.25,125,609.5,125,624.75,125C640,125,655.25,125,670.5,125C685.75,125,701,125,716.25,125C731.5,125,746.75,125,762,125C777.25,125,792.5,125,807.75,125C823,125,838.25,125,853.5,125C868.75,125,884,125,899.25,125C914.5,125,929.75,125,945,125L945,125Z" class="ct-area"/>
+                                        <path d="M30,125C45.25,125,60.5,125,75.75,125C91,125,106.25,125,121.5,125C136.75,125,152,125,167.25,125C182.5,125,197.75,125,213,125C228.25,125,243.5,125,258.75,125C274,125,289.25,125,304.5,125C319.75,125,335,125,350.25,125C365.5,125,380.75,125,396,125C411.25,125,426.5,125,441.75,125C457,125,472.25,125,487.5,125C502.75,125,518,125,533.25,125C548.5,125,563.75,125,579,125C594.25,125,609.5,125,624.75,125C640,125,655.25,125,670.5,125C685.75,125,701,125,716.25,125C731.5,125,746.75,125,762,125C777.25,125,792.5,125,807.75,125C823,125,838.25,125,853.5,125C868.75,125,884,125,899.25,125C914.5,125,929.75,125,945,125" class="ct-line"/>
+                                        <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="75.75" y1="125" x2="75.76" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="121.5" y1="125" x2="121.51" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="167.25" y1="125" x2="167.26" y2="125" class="ct-point" ct:value="0"/>
@@ -2771,30 +2777,30 @@
                                         <line x1="853.5" y1="125" x2="853.51" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="899.25" y1="125" x2="899.26" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="945" y1="125" x2="945.01" y2="125" class="ct-point" ct:value="0"/>
-                                    <text x="30" y="10" class="ct-post">+1</text><text x="75.75" y="120" class="ct-post">0</text><text x="121.5" y="120" class="ct-post">0</text><text x="167.25" y="120" class="ct-post">0</text><text x="213" y="120" class="ct-post">0</text><text x="258.75" y="120" class="ct-post">0</text><text x="304.5" y="120" class="ct-post">0</text><text x="350.25" y="120" class="ct-post">0</text><text x="396" y="120" class="ct-post">0</text><text x="441.75" y="120" class="ct-post">0</text><text x="487.5" y="120" class="ct-post">0</text><text x="533.25" y="120" class="ct-post">0</text><text x="579" y="120" class="ct-post">0</text><text x="624.75" y="120" class="ct-post">0</text><text x="670.5" y="120" class="ct-post">0</text><text x="716.25" y="120" class="ct-post">0</text><text x="762" y="120" class="ct-post">0</text><text x="807.75" y="120" class="ct-post">0</text><text x="853.5" y="120" class="ct-post">0</text><text x="899.25" y="120" class="ct-post">0</text><text x="945" y="120" class="ct-post">0</text></g>
+                                    <text x="30" y="120" class="ct-post">0</text><text x="75.75" y="120" class="ct-post">0</text><text x="121.5" y="120" class="ct-post">0</text><text x="167.25" y="120" class="ct-post">0</text><text x="213" y="120" class="ct-post">0</text><text x="258.75" y="120" class="ct-post">0</text><text x="304.5" y="120" class="ct-post">0</text><text x="350.25" y="120" class="ct-post">0</text><text x="396" y="120" class="ct-post">0</text><text x="441.75" y="120" class="ct-post">0</text><text x="487.5" y="120" class="ct-post">0</text><text x="533.25" y="120" class="ct-post">0</text><text x="579" y="120" class="ct-post">0</text><text x="624.75" y="120" class="ct-post">0</text><text x="670.5" y="120" class="ct-post">0</text><text x="716.25" y="120" class="ct-post">0</text><text x="762" y="120" class="ct-post">0</text><text x="807.75" y="120" class="ct-post">0</text><text x="853.5" y="120" class="ct-post">0</text><text x="899.25" y="120" class="ct-post">0</text><text x="945" y="120" class="ct-post">0</text></g>
                                 </g>
                                 <g class="ct-labels">
-                                    <text x="30" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">19 Feb.</text>
-                                    <text x="75.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">20</text>
-                                    <text x="121.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">21</text>
-                                    <text x="167.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">22</text>
-                                    <text x="213" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">23</text>
-                                    <text x="258.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">24</text>
-                                    <text x="304.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">25</text>
-                                    <text x="350.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">26</text>
-                                    <text x="396" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">27</text>
-                                    <text x="441.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">28</text>
-                                    <text x="487.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">01 Mar.</text>
-                                    <text x="533.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">02</text>
-                                    <text x="579" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">03</text>
-                                    <text x="624.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">04</text>
-                                    <text x="670.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">05</text>
-                                    <text x="716.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">06</text>
-                                    <text x="762" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">07</text>
-                                    <text x="807.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">08</text>
-                                    <text x="853.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">09</text>
-                                    <text x="899.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">10</text>
-                                    <text x="945" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">11</text>
+                                    <text x="30" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">20 Feb.</text>
+                                    <text x="75.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">21</text>
+                                    <text x="121.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">22</text>
+                                    <text x="167.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">23</text>
+                                    <text x="213" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">24</text>
+                                    <text x="258.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">25</text>
+                                    <text x="304.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">26</text>
+                                    <text x="350.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">27</text>
+                                    <text x="396" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">28</text>
+                                    <text x="441.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">01 Mar.</text>
+                                    <text x="487.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">02</text>
+                                    <text x="533.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">03</text>
+                                    <text x="579" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">04</text>
+                                    <text x="624.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">05</text>
+                                    <text x="670.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">06</text>
+                                    <text x="716.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">07</text>
+                                    <text x="762" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">08</text>
+                                    <text x="807.75" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">09</text>
+                                    <text x="853.5" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">10</text>
+                                    <text x="899.25" y="145" width="45.75" height="20" class="ct-label ct-horizontal ct-end">11</text>
+                                    <text x="945" y="145" width="30" height="20" class="ct-label ct-horizontal ct-end">12</text>
                                 </g>
                             </svg>
                             <div class="ct-legend">
@@ -4286,7 +4292,7 @@ from pyglet.gl import *
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2023, 04:38:08 (timezone Asia/Kolkata) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Mar 2023, 07:47:53 (timezone Asia/Kolkata) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
