@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.78m added, 111k removed
+                                    6.21m added, 125k removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="702.252229513193" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="702.252229513193" y="0" width="107.67082258764174" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="809.9230521008349" y="0" width="75.08904820257482" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="885.0121003034096" y="0" width="21.191969649634245" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="906.2040699530438" y="0" width="7.2808077869411765" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="913.484877739985" y="0" width="5.063202705701668" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="918.5480804456867" y="0" width="1.1136052454119116" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="919.6616856910986" y="0" width="0.3383143089014585" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="702.2525790962745" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="702.2525790962745" y="0" width="107.67040422706607" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="809.9229833233405" y="0" width="75.08908743163964" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="885.0120707549802" y="0" width="21.19188730713505" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="906.2039580621152" y="0" width="7.280779496984215" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="913.4847375590995" y="0" width="5.063348528096073" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="918.5480860871955" y="0" width="1.1136009184408684" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="919.6616870056364" y="0" width="0.3383129943636327" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -304,7 +304,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 26 commits)</small>
+                    <small class="h-details">(computed from last 28 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -375,8 +375,8 @@
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 5.263157894736842px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 10.526315789473683px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             11
                         </div>
                         <div class="entry">
@@ -452,7 +452,7 @@
                             </div>
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -461,7 +461,7 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">22</span>
+                                <span class="value">24</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
@@ -2874,6 +2874,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">N3RDIUM/n3rdium.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#adab317</div>
+                                        <div class="message">...</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">N3RDIUM/n3rdium.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d19d835</div>
+                                        <div class="message">Added code copy button to blog posts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">N3RDIUM/SpellControl</span>
                                     </div>
                                 </div>
@@ -2922,46 +2962,6 @@
                                     <div class="commit">
                                         <div class="sha">#7e70ff1</div>
                                         <div class="message">Better bgfx + fix blog and post navigation</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">N3RDIUM/n3rdium.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0914c2d</div>
-                                        <div class="message">Navbar fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">N3RDIUM/n3rdium.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3da7067</div>
-                                        <div class="message">Added tiloed background</div>
                                     </div>
                                 </div>
                             </section>
@@ -3426,7 +3426,7 @@ from pyglet.gl import *
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.4675 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.622500000000002 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3448,10 +3448,10 @@ from pyglet.gl import *
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">777</div>
+                                        <div class="value">779</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 777 times</div>
+                                <div class="text">Repositories have been deployed 779 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3846,7 +3846,7 @@ from pyglet.gl import *
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.39m out of 384m repositories</span>
+                                    <span class="gh">ranked 2.39m out of 385m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -3887,7 +3887,7 @@ from pyglet.gl import *
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.13m out of 384m repositories</span>
+                                    <span class="gh">ranked 1.13m out of 385m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">17</div>
                                     </div>
@@ -4298,7 +4298,7 @@ from pyglet.gl import *
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">7e70ff13</span>
-                            <span class="code">index.html</span>
+                            <span class="code">projects.html</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -4306,14 +4306,14 @@ from pyglet.gl import *
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -116,7 +116,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   &lt;!-- For mobiles, the menu is hidden by default --&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">   &lt;div class="mobile-nav" id="mobile-nav"&gt;&lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   &lt;div class="scene parallax" id="scene"&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   &lt;div class="scene" id="scene"&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">     &lt;!--Content--&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">     &lt;div data-depth="0.08" class="custom-container"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">       &lt;div class="frosted_glass full center" id="profile"&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -109,7 +109,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   &lt;!-- For mobiles, the menu is hidden by default --&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">   &lt;div class="mobile-nav" id="mobile-nav"&gt;&lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   &lt;div class="scene parallax" id="scene"&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   &lt;div class="scene" id="scene"&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">     &lt;!--Content--&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">     &lt;div data-depth="0.1" class="custom-container"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">       &lt;div class="horisontal-spacer"&gt;&lt;/div&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2023, 11:41:22 (timezone Asia/Kolkata) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 12:38:16 (timezone Asia/Kolkata) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
