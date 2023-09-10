@@ -7,7 +7,3 @@
 <p align="center"><strong><i>"Mankind Was Born On Earth. It Was Never Meant To Die Here."</i></strong></p>
 <p align="right"><i>- Cooper</i></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-![Metrics](https://raw.githubusercontent.com/N3RDIUM/N3RDIUM/main/github-metrics.svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
