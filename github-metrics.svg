@@ -564,7 +564,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 25.6k out of 125m users</span>
+                                    <span class="gh">ranked 25.7k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 307 users</div>
                             </div>
@@ -809,7 +809,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 976k out of 54.5m repositories</span>
+                                    <span class="gh">ranked 976k out of 51.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 24 stars</div>
                             </div>
@@ -918,7 +918,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2023, 17:44:18 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2023, 18:41:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
