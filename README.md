@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm <a href="https://n3rdium.dev/about" target="_blank">N3RDIUM</a></h1>
 
-A passionate student, amateur astronomer, self-taught pianist and open-source developer. I make cool stuff in my free time (a scarce commodity), occasionally doing things like blog posts, devlogs and piano performances.
+🚧🚧
+My 12th grade final exams are going on, so I may seem inactive or slow to respond.
+🚧🚧
+
+Self-taught backend & game developer focused on scalability, minimalism, and developer experience. Amateur astronomer. Piano addict.
 
 Currently working on [voxl](https://github.com/n3rdium/voxl): A highly optimized procedural multiplayer voxel engine written from scratch in Python.
 
