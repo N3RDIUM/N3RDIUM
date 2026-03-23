@@ -2,8 +2,6 @@
 
 Self-taught backend & game developer focused on scalability, minimalism, and developer experience. Amateur astronomer. Piano addict.
 
-Currently working on [voxl](https://github.com/n3rdium/voxl): A highly optimized procedural multiplayer voxel engine written from scratch in Python.
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <p align="center"><strong><i>"Mankind Was Born On Earth. It Was Never Meant To Die Here."</i></strong></p>
 <p align="right"><i>- Cooper</i></p>
