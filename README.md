@@ -2,8 +2,6 @@
 
 Self-taught backend & game developer focused on scalability, minimalism, and developer experience. Amateur astronomer. Piano addict.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<p align="center"><strong><i>"Mankind Was Born On Earth. It Was Never Meant To Die Here."</i></strong></p>
-<p align="right"><i>- Cooper</i></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+I am [switching away from GitHub](https://nogithub.codeberg.page/)! You can still find me on [Codeberg](https://codeberg.org/n3rdium) and my [personal forge](https://forge.n3rdium.dev/n2rdium).
+
 <a href="https://n3rdium.dev">Website</a> • <a href="https://n3rdium.dev/skills">Skills</a> • <a href="https://n3rdium.dev/contact">Contact</a> • <a href="https://n3rdium.dev/blog">Blog</a> • <a href="https://n3rdium.dev/astro">Astrophotography</a> 
